@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo-boot
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: ux012708
+Implementation-Vendor-Id: hitspringboot
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/demo-boot
+Created-By: Maven Integration for Eclipse
+
